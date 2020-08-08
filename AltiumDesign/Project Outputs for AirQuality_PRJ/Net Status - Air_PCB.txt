@@ -1,0 +1,15 @@
+Net Status Report
+Filename     : C:\Users\Brad\Desktop\VOC_Particulate_Sensor\AltiumDesign\Air_PCB.PcbDoc
+Date         : 8/7/2020
+Time         : 4:53:30 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    1V8, Signal Layers Only, 0mils
+    3V3, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    NetC1_1, Signal Layers Only, 0mils
+    NetC3_1, Signal Layers Only, 0mils
+    SCL, Signal Layers Only, 0mils
+    SDA, Signal Layers Only, 0mils
+count : 7
