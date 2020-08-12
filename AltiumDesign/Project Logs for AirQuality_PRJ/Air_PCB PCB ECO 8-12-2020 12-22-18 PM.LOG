@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=-
+Change Component DesignItemId : Designator= Old DesignItemId=CMP-011-0000-1 New DesignItemId=CMP-011-0001-1
+Change Component Comment : Designator=U3 Old Comment=0x19 New Comment=DS1621V+
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=4F330B7C-AB12-4FD4-ACC0-3C41BE6AF9DF New VaultGUID=4F330B7C-AB12-4FD4-ACC0-3C41BE6AF9DF Old ItemGUID=CB66B110-1BC3-46AF-8BF4-CAFDC6533442 New ItemGUID=FA2CA78A-DA4B-4413-A59B-E6C62EFA8945 Old RevisionGUID=AEC0B0A5-4B2F-4738-8256-A552AEB5F7E7 New RevisionGUID=A318D6AD-15D5-474E-866D-7A4D3B65420F
+Added Member To Class: ClassName=Air_SCH Member=Component U2 0x58

@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPC1608X90X20LL10 New Footprint=CAPC1608X90X20LL10
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2013X140X45LL15T25 New Footprint=CAPC2013X140X45LL15T25
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC1608X90X20LL10 New Footprint=CAPC1608X90X20LL10
+Change Physical Footprint: Designator=D1 Old Footprint=FP-LTST-C190GKT-MFG New Footprint=FP-LTST-C190GKT-MFG
+Change Physical Footprint: Designator=DS Old Footprint=AVAG-HSMX-C190_V New Footprint=AVAG-HSMX-C190_V
+Change Physical Footprint: Designator=R1 Old Footprint=RESC1609X55X30LL15T15 New Footprint=RESC1609X55X30LL15T15
+Change Physical Footprint: Designator=R2 Old Footprint=RESC1609X55X30LL15T15 New Footprint=RESC1609X55X30LL15T15
+Change Physical Footprint: Designator=R3 Old Footprint=RESC1609X55X30LL15T15 New Footprint=RESC1609X55X30LL15T15
+Change Physical Footprint: Designator=U1 Old Footprint=SOT-223_L New Footprint=SOT-223_L
+Change Physical Footprint: Designator=U2 Old Footprint=SGP30 New Footprint=SGP30
+Change Physical Footprint: Designator=U3 Old Footprint=MAXM-W8+2_L New Footprint=MAXM-W8+2_L

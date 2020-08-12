@@ -1,0 +1,243 @@
+*************************************************************
+FileName = Air_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : Air_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Air_PCB.GPB
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Air_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Air_PCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : Air_PCB.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Air_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Air_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Air_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Air_PCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Air_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Air_PCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Air_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Air_PCB.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Air_PCB.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer 1
+      File : Air_PCB.GBL
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
