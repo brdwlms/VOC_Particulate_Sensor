@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3V3 Pin=Designator5-1
+Removed Pin From Net: NetName=SDA Pin=Designator5-2
+Removed Pin From Net: NetName=SCL Pin=Designator5-3
+Removed Pin From Net: NetName=GND Pin=Designator5-4
+Removed Pin From Net: NetName=GND Pin=U2-P$7
+Change Component Footprint: Designator=U2 Old Footprint=SGP30 New Footprint=SGP30
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=4F330B7C-AB12-4FD4-ACC0-3C41BE6AF9DF Old ItemGUID= New ItemGUID=CB66B110-1BC3-46AF-8BF4-CAFDC6533442 Old RevisionGUID= New RevisionGUID=AEC0B0A5-4B2F-4738-8256-A552AEB5F7E7
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SGP30"; UniqueID = "\LHFAJADF" ("\LHFAJADF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "SGP30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sensirion AG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SGP30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SGP30/Sensirion%20AG/view-part/1413307/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-DIEPAD
+Added Member To Class: ClassName=Air_SCH Member=Component U2
