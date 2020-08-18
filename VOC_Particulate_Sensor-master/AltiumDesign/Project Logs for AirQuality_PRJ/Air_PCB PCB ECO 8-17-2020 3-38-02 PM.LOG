@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Member To Class: ClassName=Air_SCH Member=Component R2 ERJ-3EKF1001V

@@ -1,0 +1,16 @@
+Added Component: Designator=U4(AMS-FN-6-2400X2000DE_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.ams.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ams.com/eng/content/download/389383/1251117/221235"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C - Vdd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Lux"; Value = "88K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Pin Dual Flat No-Lead, 2.4 x 2 mm Body, 0.65 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FN-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "TAOS059Q, 11/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TSL25911FN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Programmable"; Value = "Gain, Integration Time, Interrupt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage (V)"; Value = "2.7 - 3.6"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Air_SCH Member=Component U4 TSL25911FN

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=1V8 Pin=R1-1
+Removed Pin From Net: NetName=SCL Pin=R1-2
+Removed Pin From Net: NetName=1V8 Pin=R2-1
+Removed Pin From Net: NetName=SDA Pin=R2-2
+Removed Member From Class: ClassName=Air_SCH Member=R1
+Removed Member From Class: ClassName=Air_SCH Member=R2
+Change Component Comment : Designator=U2 Old Comment= New Comment=SGP30
+Added Component: Designator=R?(RESC1608X55X30LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55X30LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V8 Pin=R?-1
+Added Pin To Net: NetName=1V8 Pin=R?-1
+Added Pin To Net: NetName=SCL Pin=R?-2
+Added Pin To Net: NetName=SDA Pin=R?-2
+Added Member To Class: ClassName=Air_SCH Member=Component R? ERJ-3EKF1001V
+Added Member To Class: ClassName=Air_SCH Member=Component R? ERJ-3EKF1001V

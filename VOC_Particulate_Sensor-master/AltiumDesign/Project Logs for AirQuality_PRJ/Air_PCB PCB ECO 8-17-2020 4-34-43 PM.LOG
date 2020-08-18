@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=DATA NewDesignator=LED1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=PWR NewDesignator=DS1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=Air_SCH Member=Component DS1 TLMS1000-GS08
+Added Member To Class: ClassName=Air_SCH Member=Component LED1 150080BS75000

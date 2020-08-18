@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DATA NewDesignator=LED1
+Change Component Designator: OldDesignator=PWR NewDesignator=DS1
+Added Member To Class: ClassName=Air_SCH Member=Component R2 ERJ-3EKF1001V
+Added Member To Class: ClassName=Air_SCH Member=Component R3 ERJ-3EKF1001V
+Added Member To Class: ClassName=Air_SCH Member=Component U2 LD1117AS18TR

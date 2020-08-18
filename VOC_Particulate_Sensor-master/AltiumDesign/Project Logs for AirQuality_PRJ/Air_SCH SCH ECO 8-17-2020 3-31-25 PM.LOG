@@ -1,0 +1,11 @@
+Remove Pin=R1-1 From Net=3V3
+Remove Pin=R2-1 From Net=3V3
+Remove Pin=U4-1 From Net=SCL
+Remove Pin=U4-6 From Net=SDA
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X60X40NL20T25 New Footprint=RESC2013X70X40NL20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X60X40NL20T25 New Footprint=RESC2013X70X40NL20T20
+Change Component Footprint: Designator=U2 Old Footprint=SGP30 New Footprint=SGP30
+Change Component Comment: Designator=R1 Old Comment=ERA6AEB102V New Comment=ERJ-6ENF4701V
+Change Component Comment: Designator=R2 Old Comment=ERA6AEB102V New Comment=ERJ-6ENF4701V
+Add Pin To Net: Pin=R1-1 Old Net=3V3 New Net=1V8
+Add Pin To Net: Pin=R2-1 Old Net=3V3 New Net=1V8

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=1V8 Pin=R1-1
+Removed Pin From Net: NetName=1V8 Pin=R2-1
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X70X40NL20T20 New Footprint=RESC2013X60X40NL20T25
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X70X40NL20T20 New Footprint=RESC2013X60X40NL20T25
+Change Component Comment : Designator=R1 Old Comment=ERJ-6ENF4701V New Comment=ERA6AEB102V
+Change Component Comment : Designator=R2 Old Comment=ERJ-6ENF4701V New Comment=ERA6AEB102V
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=036EE5A0-B2C5-4A37-AE66-199A5EB1252D New ItemGUID=07951794-2528-4BBD-8FD7-F47BBECFC269 Old RevisionGUID=011DFB8A-4DA5-44A1-A9B0-E04FF2B2B134 New RevisionGUID=68B48C8F-BF63-4FDC-9BAA-01D38E9EA70F
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=036EE5A0-B2C5-4A37-AE66-199A5EB1252D New ItemGUID=07951794-2528-4BBD-8FD7-F47BBECFC269 Old RevisionGUID=011DFB8A-4DA5-44A1-A9B0-E04FF2B2B134 New RevisionGUID=68B48C8F-BF63-4FDC-9BAA-01D38E9EA70F
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC2013X70X40NL20T20"; UniqueID = "\ECXQVNOY" ("\ECXQVNOY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA6AEB102V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC2013X70X40NL20T20"; UniqueID = "\BZORHWIH" ("\BZORHWIH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA6AEB102V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(AMS-FN-6-2400X2000DE_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.ams.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ams.com/eng/content/download/389383/1251117/221235"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C - Vdd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Lux"; Value = "88K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Pin Dual Flat No-Lead, 2.4 x 2 mm Body, 0.65 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FN-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "TAOS059Q, 11/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TSL25911FN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Programmable"; Value = "Gain, Integration Time, Interrupt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage (V)"; Value = "2.7 - 3.6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=U4-1
+Added Pin To Net: NetName=SDA Pin=U4-6
+Added Member To Class: ClassName=Air_SCH Member=Component U2
+Added Member To Class: ClassName=Air_SCH Member=Component U4 TSL25911FN
