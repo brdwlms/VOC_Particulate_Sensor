@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U3 Old Footprint=SGP30 New Footprint=SGP30
+Added Pin To Net: NetName=GND Pin=U3-DIEPAD
+Added Member To Class: ClassName=Air_SCH Member=Component P1 TSM-104-01-L-SH

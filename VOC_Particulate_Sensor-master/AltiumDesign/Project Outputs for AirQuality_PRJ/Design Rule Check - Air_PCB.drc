@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Brad\Desktop\VOC_Particulate_Sensor\VOC_Particulate_Sensor-master\AltiumDesign\Air_PCB.PcbDoc
-Date     : 8/17/2020
-Time     : 7:47:13 PM
+Date     : 8/19/2020
+Time     : 3:59:17 PM
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad P1-4(2606mil,3958.688mil) on Multi-Layer on Net GND
@@ -25,7 +25,9 @@ Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (7.835mil < 10mil) Between Pad U2-4(2364mil,3961.796mil) on Top Layer And Track (2225mil,3889mil)(2420mil,3889mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (7.835mil < 10mil) Between Pad U2-4(2364mil,3961.796mil) on Top Layer And Track (2420mil,3889mil)(2501mil,3808mil) on Keep-Out Layer 
+Rule Violations :2
 
 Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
 Rule Violations :0
@@ -70,6 +72,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:02
