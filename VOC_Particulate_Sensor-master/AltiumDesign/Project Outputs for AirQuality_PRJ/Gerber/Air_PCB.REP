@@ -2,35 +2,10 @@
 FileName = Air_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : Air_PCB.GKO
+Generating : 1V8
+      File : Air_PCB.G2
 
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Air_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : GND2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : GND2
-      File : Air_PCB.GBL
-
-    Adding Layer      : GND2
+    Adding Layer      : 1V8
 
     Adding Layer      : Multi-Layer
 
@@ -51,25 +26,16 @@ Generating : 3V3
 
 
 Used DCodes :
+    D42
     D43
     D44
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Air_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : GND
+Generating : TopLayer
       File : Air_PCB.GTL
 
-    Adding Layer      : GND
+    Adding Layer      : TopLayer
 
     Adding Layer      : Multi-Layer
 
@@ -93,19 +59,42 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Air_PCB.GTO
+Generating : Drill Drawing
+      File : Air_PCB.GD1
 
-    Adding Layer      : Top Overlay
+    Adding Drill Pair : TopLayer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Air_PCB.GD2
+
+    Adding Drill Pair : TopLayer-3V3
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Air_PCB.GD3
+
+    Adding Drill Pair : TopLayer-1V8
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D47
 *************************************************************
 
 *************************************************************
@@ -114,7 +103,7 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
-    Adding Layer      : GND
+    Adding Layer      : TopLayer
 
     Adding Layer      : Multi-Layer
 
@@ -140,7 +129,7 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : GND
+    Adding Layer      : TopLayer
 
     Adding Layer      : Multi-Layer
 
@@ -163,25 +152,12 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : 1V8
-      File : Air_PCB.G2
-
-    Adding Layer      : 1V8
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D44
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Air_PCB.GBS
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : GND2
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -189,5 +165,72 @@ Generating : Bottom Solder
 Used DCodes :
     D40
     D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Air_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Air_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Air_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Air_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Air_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 

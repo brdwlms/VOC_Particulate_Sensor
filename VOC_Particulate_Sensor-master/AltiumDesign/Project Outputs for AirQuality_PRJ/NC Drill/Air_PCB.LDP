@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: C:\Users\Brad\Desktop\VOC_Particulate_Sensor\VOC_Particulate_Sensor-master\AltiumDesign\Air_PCB.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=air_pcb.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=GND_3V3_Blind_Vias|DrillFile=air_pcb.tx1|DrillLayers=gtl,g1
-LayersSetName=GND_1V8_Blind_Vias|DrillFile=air_pcb.tx2|DrillLayers=gtl,g1,g2
