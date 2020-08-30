@@ -214,10 +214,14 @@ DocumentPath=AirQuality_PRJ.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for AirQuality_PRJ\Pick Place for Air_PCB.csv
+DocumentPath=Project Outputs for AirQuality_PRJ\Design Rule Check - Air_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for AirQuality_PRJ\Pick Place for Air_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for AirQuality_PRJ\Pick Place for Air_PCB.txt
 DItemRevisionGUID=
 

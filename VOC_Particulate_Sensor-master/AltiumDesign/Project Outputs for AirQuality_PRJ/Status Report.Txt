@@ -1,11 +1,14 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [AirQuality_PRJ.PrjPcb]
-   Generated File[Pick Place for Air_PCB.txt]
-   Generated File[Pick Place for Air_PCB.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Air_PCB.PcbDoc]
+   Generated File[Air_PCB.TXT]
+   Generated File[Air_PCB.TX1]
+   Generated File[Air_PCB.TX2]
+   Generated File[Air_PCB.LDP]
+   Generated File[Air_PCB.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 9:49:23 AM On 8/27/2020
+Finished Output Generation At 8:53:12 AM On 8/28/2020

@@ -1,0 +1,75 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Brad\Desktop\VOC_Particulate_Sensor\VOC_Particulate_Sensor-master\AltiumDesign\Air_PCB.PcbDoc
+Date     : 8/30/2020
+Time     : 3:40:39 PM
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad P1-1(2906mil,3958.688mil) on Multi-Layer on Net 3V3
+   Pad P1-2(2806mil,3958.688mil) on Multi-Layer on Net SDA
+   Pad P1-3(2706mil,3958.688mil) on Multi-Layer on Net SCL
+   Pad P1-4(2606mil,3958.688mil) on Multi-Layer on Net GND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad P1-1(2906mil,3958.688mil) on Multi-Layer
+   Pad P1-2(2806mil,3958.688mil) on Multi-Layer
+   Pad P1-3(2706mil,3958.688mil) on Multi-Layer
+   Pad P1-4(2606mil,3958.688mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
