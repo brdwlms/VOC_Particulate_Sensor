@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPC1608X90X20LL10 New Footprint=CAPC1608X90X20LL10
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2013X140X45LL15T25 New Footprint=CAPC2013X140X45LL15T25
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC1608X90X20LL10 New Footprint=CAPC1608X90X20LL10
+Change Physical Footprint: Designator=DATA Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=P1 Old Footprint=SMTC-TSM-104-01-X-SH New Footprint=SMTC-TSM-104-01-X-SH
+Change Physical Footprint: Designator=PWR Old Footprint=VISH-TLMS1000_V New Footprint=VISH-TLMS1000_V
+Change Physical Footprint: Designator=R1 Old Footprint=RESC1609X55X30LL15T15 New Footprint=RESC1609X55X30LL15T15
+Change Physical Footprint: Designator=R2 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RESC1608X55X30LL15T15
+Change Physical Footprint: Designator=R3 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RESC1608X55X30LL15T15
+Change Physical Footprint: Designator=U1 Old Footprint=MAXM-W8+2_L New Footprint=MAXM-W8+2_L
+Change Physical Footprint: Designator=U2 Old Footprint=SOT-223_L New Footprint=SOT-223_L

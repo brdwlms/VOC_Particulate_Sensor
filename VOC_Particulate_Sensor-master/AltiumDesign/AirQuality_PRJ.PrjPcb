@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for AirQuality_PRJ
 LogFolderPath=
 ManagedProjectGUID=65E5570B-DCC0-4504-87CF-8F1B77353102
 VaultGUID=4F330B7C-AB12-4FD4-ACC0-3C41BE6AF9DF
@@ -141,87 +141,36 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=Air_PCB1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUHLPFFQ
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.G1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.G2
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GD2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GD3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for AirQuality_PRJ\Gerber\Air_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
 DocumentPath=AirQuality_PRJ.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for AirQuality_PRJ\Design Rule Check - Air_PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for AirQuality_PRJ\Pick Place for Air_PCB.csv
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for AirQuality_PRJ\Pick Place for Air_PCB.txt
 DItemRevisionGUID=
 
@@ -234,6 +183,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for AirQuality_PRJ
 
 [OutputGroup1]
 Name=Netlist Outputs
