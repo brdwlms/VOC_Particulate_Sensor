@@ -1,9 +1,12 @@
-Output: Copy Files
-Type  : Copy Files
-From  : Project [AirQuality_PRJ.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Air_PCBv3.PcbDoc]
+   Generated File[Air_PCBv3.TXT]
+   Generated File[Air_PCBv3.LDP]
+   Generated File[Air_PCBv3.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:46:56 PM On 8/30/2020
+Finished Output Generation At 10:26:16 PM On 9/14/2020

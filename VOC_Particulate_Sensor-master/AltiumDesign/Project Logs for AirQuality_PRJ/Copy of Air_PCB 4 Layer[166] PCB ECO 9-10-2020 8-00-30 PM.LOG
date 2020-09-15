@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=DATA-1
+Removed Pin From Net: NetName=SDA Pin=DATA-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=SDA Pin=U1-1
+Removed Pin From Net: NetName=SCL Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=3V3 Pin=U1-7
+Removed Pin From Net: NetName=3V3 Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U3-GND
+Removed Member From Class: ClassName=Air_SCH Member=R1
+Removed Member From Class: ClassName=Air_SCH Member=U1
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=Purple New Net Color=Default
